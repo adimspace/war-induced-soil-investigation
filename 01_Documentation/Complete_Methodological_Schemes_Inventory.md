@@ -1,6 +1,6 @@
 # Complete Methodological Schemes for War-Induced Soil Investigation
 
-**Total Collection: 14 Schemes | Total Size: 10.8 MB**
+**Total Collection: 17 Schemes | Total Size: 12.9 MB**
 *Publication-Ready Scientific Frameworks for War-Induced Soil Investigation*
 
 ## Overview
@@ -76,30 +76,51 @@ This document provides a comprehensive overview of all the methodological scheme
     - Knowledge gap identification and research priorities
     - Publication and dissemination strategies
 
+11. **`Soil_Indicators_Classification_Matrix.png`** (913 KB)
+    - Comprehensive soil contamination indicators framework
+    - Four main categories: Chemical, Physical, Biological, Nutritional
+    - Analysis workflow and priority matrix
+    - Persistence vs timing optimization chart
+    - Based on enhanced 23-indicator database
+
+12. **`Soil_Analysis_Methods_Flowchart.png`** (566 KB)
+    - Complete analytical methods and equipment framework
+    - Six method categories from field to data management
+    - Cost ranges and complexity assessments ($50-10,000)
+    - Sampling strategy and quality control protocols
+    - Method selection decision matrix
+
+13. **`Soil_Indicators_Cost_Benefit_Analysis.png`** (565 KB)
+    - Economic optimization framework for indicator selection
+    - Cost vs reliability analysis for all indicators
+    - Multi-criteria decision matrix and ROI assessment
+    - Cumulative cost analysis over time periods
+    - Budget optimization and resource allocation
+
 ### 🔬 **Advanced Framework Schemas (Decision Support & Integration)**
 
-11. **`Risk_Assessment_Decision_Matrix_Scheme.png`** (1,126 KB)
+14. **`Risk_Assessment_Decision_Matrix_Scheme.png`** (1,126 KB)
    - Comprehensive risk assessment and decision-making framework
    - Contamination level vs. exposure potential matrix
    - Decision trees for management actions
    - Monitoring protocols and remediation strategies
    - Quality assurance validation framework
 
-12. **`Temporal_Monitoring_Scheme.png`** (625 KB)
+15. **`Temporal_Monitoring_Scheme.png`** (625 KB)
    - Time-based monitoring framework for long-term assessment
    - Three-phase temporal approach (immediate, short-term, long-term)
    - Monitoring frequency guidelines and key indicators
    - Decision points and threshold values
    - Trend analysis and sustainability assessment
 
-13. **`Multiscale_Integration_Scheme.png`** (1,083 KB)
+16. **`Multiscale_Integration_Scheme.png`** (1,083 KB)
     - Multi-scale research integration framework (micro to global)
     - Scale-dependent methodological approaches
     - Statistical and analytical integration methods
     - Temporal integration across different time scales
-    - Cross-validation and uncertainty management
+        - Cross-validation and uncertainty management
 
-14. **`Publication_Framework_Scheme.png`** (981 KB)
+17. **`Publication_Framework_Scheme.png`** (981 KB)
     - Scientific publication methodology framework
     - Structured approach for methodology sections
     - Results presentation and discussion guidelines
@@ -112,7 +133,7 @@ This document provides a comprehensive overview of all the methodological scheme
 
 ### **Comprehensive Methodological Documentation**
 
-8. **`General_Methodological_Framework_War_Soil_Investigation.md`** (18 KB)
+1. **`General_Methodological_Framework_War_Soil_Investigation.md`** (18 KB)
    - **69-page comprehensive scientific framework**
    - Detailed protocols for all 7 phases of investigation
    - Quality assurance and quality control procedures
@@ -120,18 +141,25 @@ This document provides a comprehensive overview of all the methodological scheme
    - International standardization guidelines
    - Ready for scientific publication
 
-9. **`Methodological_Scheme_Magnetic_Chemical_Analysis.md`** (Case-specific)
+2. **`Soil_Indicators_Visualization_Framework.md`** (12 KB)
+   - Comprehensive documentation for soil indicators visualization schemes
+   - Technical specifications and usage guidelines
+   - Integration with methodological framework
+   - Cost-benefit analysis and method selection guidance
+   - Scientific publication standards
+
+3. **`Methodological_Scheme_Magnetic_Chemical_Analysis.md`** (Case-specific)
    - Detailed documentation of Ukrainian case study methodology
    - Equipment specifications and operating conditions
    - Sample preparation and analysis protocols
 
 ### **Supporting Documentation**
 
-10. **`Methodological_Flowchart_Diagrams.md`**
+4. **`Methodological_Flowchart_Diagrams.md`**
     - Mermaid format flowchart diagrams
     - Technical workflow representations
 
-11. **`Methodological_Scheme_Visualization.html`**
+5. **`Methodological_Scheme_Visualization.html`**
     - Interactive HTML visualization
     - Professional styling and responsive design
 
